@@ -25,7 +25,7 @@ there may be exceptions.
 gazeanalysislib uses MIT licence.
 
 ### Reference
-The project was started by researchers from Infant Cognition Lab, University of Tampere, Finland (http://uta.fi/med/icl). Please cite the following article if you publish using gazeanalysislib:
+Please cite the following article if you publish using gazeanalysislib:
 
 Leppänen, J.M., Forssman, L., Kaatiala, J., Yrttiaho, S.,  &  Wass, S.V. (2014). Widely applicable MATLAB routines for automated analysis of saccadic reaction times. Behavior Research Methods, 47, 538-548
 
