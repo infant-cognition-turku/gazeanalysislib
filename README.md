@@ -1,7 +1,12 @@
 # gazeanalysislib
 A Matlab-library for gaze analysis.
 
-https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/XYs.png
+3D visualization                                         | Detection of gaze shifts
+:------------------------------------------------------------------------:|:-------------------------:
+<img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3d.gif" width="185"> | <img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/XYs.png" width="400">
+
+
+
 
 
 ### What is gazeanalysislib?
