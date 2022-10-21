@@ -1,13 +1,9 @@
 # gazeanalysislib
 A Matlab-library for gaze analysis.
 
-3D visualization                                         | Detection of gaze shifts
+3D visualization                                         | Animations
 :------------------------------------------------------------------------:|:-------------------------:
 <img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3dlabels.png"> | <img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3d_animation.gif">
-
-
-
-
 
 ### What is gazeanalysislib?
 
@@ -15,6 +11,14 @@ gazeanalysislib is an open-source project created by psychology researchers and
 engineers to facilitate common gaze-analysis tasks. gazeanalysislib contains
 functions to load gazefiles into Matlab, to cut data, to extract various features (for example, first time in AOI, last time in AOI, time at AOI etc), and to
 visualize data. The functions are not dependent on the tracker type or model. Most functions are relatively low-level, easy to understand and modify, and adaptable for different analysis requirements. The functions can be flexibly chained to build complex analysis pipelines for processing large numbers of eye tracking datafiles.
+
+
+
+Detection of gaze shifts                                        
+:------------------------------------------------------------------------:
+<img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/XYs.png"> 
+
+
 
 ### Platforms
 Matlab on any system. Octave is a free alternative, but currently we havent
