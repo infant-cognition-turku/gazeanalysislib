@@ -3,7 +3,7 @@ A Matlab-library for gaze analysis.
 
 3D visualization                                         | Detection of gaze shifts
 :------------------------------------------------------------------------:|:-------------------------:
-<img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3dlabels"> | <img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3d_animation.gif">
+<img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3dlabels.png"> | <img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/3d_animation.gif">
 
 
 
