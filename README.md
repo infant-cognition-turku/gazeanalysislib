@@ -16,7 +16,7 @@ visualize data. The functions are not dependent on the tracker type or model. Mo
 
 Detection of gaze shifts                                        
 :------------------------------------------------------------------------:
-<img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/XYs.png"> 
+<img src="https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/XY.png"> 
 
 
 
