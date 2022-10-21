@@ -1,6 +1,9 @@
 # gazeanalysislib
 A Matlab-library for gaze analysis.
 
+https://github.com/infant-cognition-turku/gazeanalysislib/blob/master/XYs.png
+
+
 ### What is gazeanalysislib?
 
 gazeanalysislib is an open-source project created by psychology researchers and
